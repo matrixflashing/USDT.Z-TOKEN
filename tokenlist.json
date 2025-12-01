@@ -1,0 +1,20 @@
+{
+  "name": "USDT.Z Token List",
+  "logoURI": "https://raw.githubusercontent.com/matrixflashing/USDT.Z-TOKEN/main/logo.png",
+  "keywords": ["bep20", "usdtz", "education", "blockchain", "web3"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x98A225bd2F0B7Fd64ECe7425C9751459116debae",
+      "name": "USDT.Z",
+      "symbol": "USDT.Z",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/matrixflashing/USDT.Z-TOKEN/main/logo.png"
+    }
+  ]
+}
